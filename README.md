@@ -38,15 +38,25 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4EE3F6&repeat=false&width=435&lines=%F0%9F%9A%80+My+Projects" alt="Typing SVG" /></a>
 
 <div align="center">
+ <a href="https://github.com/mdkaba/SmartClass-A.I.ssistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartClass-A.I.ssistant&theme=radical" alt="SmartClass-A.I.ssistant Repo Card">
+  </a>
   <a href="https://github.com/mdkaba/SmartPlug">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartPlug&theme=tokyonight" alt="SmartPlug Repo Card">
   </a>
   <a href="https://github.com/mdkaba/Upstart-Dakota">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Upstart-Dakota&theme=tokyonight" alt="Upstart-Dakota Repo Card">
   </a>
+ <a href="https://github.com/mdkaba/ConUHacks-USSA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=ConUHacks-USSA&theme=radical" alt="ConUHacks-USSA Repo Card">
+  </a>
+  <a href="https://github.com/mdkaba/32-Bit-CPU-Datapath">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=32-Bit-CPU-Datapath&theme=radical" alt="32-Bit-CPU-Datapath Repo Card">
+  </a>
   <a href="https://github.com/mdkaba/Hovercraft">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Hovercraft&theme=tokyonight" alt="Hovercraft Repo Card">
   </a>
+ 
 </div>
 
 
