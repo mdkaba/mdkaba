@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=C365FF&background=18255B2D&center=true&vCenter=true&multiline=true&repeat=false&width=575&height=75&lines=+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBPassionate+Computer+Engineering+student+with+hands-on+;++experience+in+AI%2C+Full-stack+Development%2C+and+Embedded+Systems%2C+;++always+eager+to+learn+and+innovate%F0%9F%98%8E.+" alt="Typing SVG" /></a>
 </p>
 
----
+--- 
 <!-- #EB3AF6FF -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=EB3AF6&repeat=false&width=435&lines=%F0%9F%92%BB+My+Tech+Stack" alt="Typing SVG" /></a>
 <!-- <h3 align="left">Languages and Tools:</h3>-->
@@ -78,6 +78,7 @@
   </tr>
 </table>
 
+<!--
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
@@ -87,5 +88,6 @@
     <img src="https://visitcount.itsvg.in/api?id=mdkaba&icon=0&color=11" alt="Visit Count" />
   </a>
 </div>
+-->
 
 
