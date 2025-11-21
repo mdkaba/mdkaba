@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=C365FF&background=18255B2D&center=true&vCenter=true&multiline=true&repeat=false&width=575&height=75&lines=+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBPassionate+Computer+Engineer+with+hands-on+;++experience+in+AI%2C+Full-stack+Development%2C+and+Embedded+Systems%2C+;++always+eager+to+learn+and+innovate%F0%9F%98%8E.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=200&color=C365FF&background=18255B2D&center=true&vCenter=true&multiline=true&repeat=false&width=575&height=75&lines=+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBPassionate+Computer+Engineer+with+hands-on+;++experience+in+AI%2C+Backend+Development%2C+and+Embedded+Systems%2C+;++always+eager+to+learn+and+innovate%F0%9F%98%8E.+" alt="Typing SVG" /></a>
 </p>
 
 --- 
@@ -11,26 +11,35 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=EB3AF6&repeat=false&width=435&lines=%F0%9F%92%BB+My+Tech+Stack" alt="Typing SVG" /></a>
 <!-- <h3 align="left">Languages and Tools:</h3>-->
 <p align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  <img width="40" height="40" alt="icons8-opencv-48" src="https://github.com/user-attachments/assets/b9ee0044-ac1a-4241-bdac-6f3d56f405df" />
+  <img width="40" height="40" alt="ollama" src="https://github.com/user-attachments/assets/913070b7-e573-4b45-b103-b2efe6146916" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  <img width="40" height="40" alt="fastapi-1" src="https://github.com/user-attachments/assets/2fb94b6b-d2a3-4832-9e03-b6b478be9524" />
+  <img width="40" height="40" alt="flask-logo-png_seeklogo-273085" src="https://github.com/user-attachments/assets/cf0c01b4-6810-436b-a183-44ee68bb4de0" />
+  <img width="40" height="40" alt="icons8-docker-48" src="https://github.com/user-attachments/assets/7cde036a-5d21-49a4-91e6-de7e3a7eb61a" />
+  <img width="40" height="40" alt="icons8-google-cloud-48" src="https://github.com/user-attachments/assets/c2b52665-105c-4845-90e9-e6a741b94db0" />
+  <img width="40" height="40" alt="icons8-azure-48" src="https://github.com/user-attachments/assets/e3d465c9-70b6-4414-bb95-3566052d1131" />
+  <img width="40" height="40" alt="Vercel" src="https://github.com/user-attachments/assets/753443ad-f2c4-4e43-8f6b-de8feb67886e" />
+  <img width="40" height="40" alt="RabbitMQ" src="https://github.com/user-attachments/assets/f06a51d1-4560-4cf2-bcc7-060a31dfb018" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  <img width="40" height="40" alt="icons8-mongodb-48" src="https://github.com/user-attachments/assets/890ff7b8-5c0a-41db-9248-74daa48200e8" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" alt="android" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" alt="IJ" width="40" height="40"/> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="PC" width="40" height="40"/> 
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+  <img width="40" height="40" alt="icons8-wordpress-48" src="https://github.com/user-attachments/assets/5b9e086c-09b4-4f4a-aa13-e395b8b7db17" />
+
 </p>
 
 ---
@@ -38,23 +47,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=4EE3F6&repeat=false&width=435&lines=%F0%9F%9A%80+My+Projects" alt="Typing SVG" /></a>
 
 <div align="center">
+ <a href="https://github.com/mdkaba/Snapcaption">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Snapcaption&theme=radical" alt="Snapcaption Repo Card">
+  </a>
+  <a href="https://github.com/mdkaba/Concordia-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Concordia-Chatbot&theme=tokyonight" alt="Concordia-Chatbot Repo Card">
+  </a>
+  <a href="https://github.com/mdkaba/VISION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=VISION&theme=tokyonight" alt="VISION Repo Card">
+  </a>
  <a href="https://github.com/mdkaba/SmartClass-A.I.ssistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartClass-A.I.ssistant&theme=radical" alt="SmartClass-A.I.ssistant Repo Card">
   </a>
-  <a href="https://github.com/mdkaba/SmartPlug">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartPlug&theme=tokyonight" alt="SmartPlug Repo Card">
+  <a href="https://github.com/mdkaba/Air-Traffic-Control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Air-Traffic-Control&theme=radical" alt="Air-Traffic-Control Repo Card">
   </a>
-  <a href="https://github.com/mdkaba/Upstart-Dakota">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Upstart-Dakota&theme=tokyonight" alt="Upstart-Dakota Repo Card">
-  </a>
- <a href="https://github.com/mdkaba/ConUHacks-USSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=ConUHacks-USSA&theme=radical" alt="ConUHacks-USSA Repo Card">
-  </a>
-  <a href="https://github.com/mdkaba/32-Bit-CPU-Datapath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=32-Bit-CPU-Datapath&theme=radical" alt="32-Bit-CPU-Datapath Repo Card">
-  </a>
-  <a href="https://github.com/mdkaba/Hovercraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Hovercraft&theme=tokyonight" alt="Hovercraft Repo Card">
+  <a href="https://github.com/mdkaba/P2P-Shopping-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=P2P-Shopping-System&theme=tokyonight" alt="P2P-Shopping-System Repo Card">
   </a>
  
 </div>
