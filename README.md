@@ -50,25 +50,28 @@
  <a href="https://github.com/mdkaba/Snapcaption">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Snapcaption&theme=radical" alt="Snapcaption Repo Card">
   </a>
- <!--
-  <a href="https://github.com/mdkaba/Concordia-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Concordia-Chatbot&theme=tokyonight" alt="Concordia-Chatbot Repo Card">
+ 
+  <a href="https://github.com/mdkaba/Concordia-RAG-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Concordia-RAG-Chatbot&theme=tokyonight" alt="Concordia-RAG-Chatbot Repo Card">
   </a>
-  <a href="https://github.com/mdkaba/VISION">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=VISION&theme=tokyonight" alt="VISION Repo Card">
+  <!--
+  <a href="https://github.com/mdkaba/VISION-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=VISION-SYSTEM&theme=tokyonight" alt="VISION-SYSTEM Repo Card">
   </a>
  -->
  <a href="https://github.com/mdkaba/SmartClass-A.I.ssistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartClass-A.I.ssistant&theme=radical" alt="SmartClass-A.I.ssistant Repo Card">
   </a>
- <!--
-  <a href="https://github.com/mdkaba/Air-Traffic-Control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Air-Traffic-Control&theme=radical" alt="Air-Traffic-Control Repo Card">
+ 
+  <a href="https://github.com/mdkaba/Air-Traffic-Control-RTOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Air-Traffic-Control-RTOS&theme=radical" alt="Air-Traffic-Control-RTOS Repo Card">
   </a>
-  <a href="https://github.com/mdkaba/P2P-Shopping-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=P2P-Shopping-System&theme=tokyonight" alt="P2P-Shopping-System Repo Card">
+  <!--
+  <a href="https://github.com/mdkaba/P2P-Shopping">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=P2P-Shopping&theme=tokyonight" alt="P2P-Shopping Repo Card">
   </a>
- -->
+  -->
+ 
 </div>
 
 
