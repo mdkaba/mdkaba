@@ -50,22 +50,25 @@
  <a href="https://github.com/mdkaba/Snapcaption">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Snapcaption&theme=radical" alt="Snapcaption Repo Card">
   </a>
+ <!--
   <a href="https://github.com/mdkaba/Concordia-Chatbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Concordia-Chatbot&theme=tokyonight" alt="Concordia-Chatbot Repo Card">
   </a>
   <a href="https://github.com/mdkaba/VISION">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=VISION&theme=tokyonight" alt="VISION Repo Card">
   </a>
+ -->
  <a href="https://github.com/mdkaba/SmartClass-A.I.ssistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=SmartClass-A.I.ssistant&theme=radical" alt="SmartClass-A.I.ssistant Repo Card">
   </a>
+ <!--
   <a href="https://github.com/mdkaba/Air-Traffic-Control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=Air-Traffic-Control&theme=radical" alt="Air-Traffic-Control Repo Card">
   </a>
   <a href="https://github.com/mdkaba/P2P-Shopping-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdkaba&repo=P2P-Shopping-System&theme=tokyonight" alt="P2P-Shopping-System Repo Card">
   </a>
- 
+ -->
 </div>
 
 
